@@ -1,0 +1,6 @@
+os
+uuid
+groq
+supabase
+python-dotenv
+requests
